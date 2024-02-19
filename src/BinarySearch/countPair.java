@@ -1,2 +1,5 @@
-package BinarySearch;public class countPair {
+package BinarySearch;
+import java.util.*;
+public class countPair {
+
 }
