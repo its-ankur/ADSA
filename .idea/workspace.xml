@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="recursion questions">
-      <change afterPath="$PROJECT_DIR$/src/Stack/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/postFix.java" afterDir="false" />
+    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="postfix question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/stockSpan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/stockSpan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
     "Application.Question1.executor": "Run",
     "Application.Question2.executor": "Run",
     "Application.postFix.executor": "Run",
+    "Application.stockSpan.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -73,11 +72,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707807678240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="postfix question">
+      <option name="closed" value="true" />
+      <created>1708509374862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708509374862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="recursion questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="recursion questions" />
+    <MESSAGE value="postfix question" />
+    <option name="LAST_COMMIT_MESSAGE" value="postfix question" />
   </component>
 </project>
