@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="recursion questions">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/countPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/postFix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++/dynamic2DArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/c++/dynamic2DArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c++/dynamic2DArray.exe" beforeDir="false" afterPath="$PROJECT_DIR$/c++/dynamic2DArray.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     "Application.LinkedList.executor": "Run",
     "Application.Question1.executor": "Run",
     "Application.Question2.executor": "Run",
+    "Application.postFix.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
