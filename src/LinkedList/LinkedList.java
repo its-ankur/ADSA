@@ -4,7 +4,7 @@ import java.util.*;
 
 
 public class LinkedList {
-    private Node head;
+    public Node head;
 
     public LinkedList() {
         this.head = null;
@@ -54,6 +54,27 @@ public class LinkedList {
             fast=fast.next;
         }
         return slow;
+    }
+    public void delK(int k){
+        if(head==null || k<=0){
+            return;
+        }
+        Node slow=head;
+        Node fast=head;
+        for(int i=0;i<k;i++){
+            if(fast!=null){
+                fast=fast.next;
+            }
+            else{
+                return;
+            }
+        }
+        while(fast.next!=null) {
+            slow = slow.next;
+            fast = fast.next;
+        }
+        slow.next=slow.next.next;
+        display();
     }
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
