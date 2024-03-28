@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="Linked list kth node from last">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/DeleteKthNode.java" afterDir="false" />
+    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="Delete kth node from last">
+      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DequePackage/DequeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/infixToPostfix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;its-ankur&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="661d68f2-9a91-4c4c-859d-3f0122a3f817" />
+        <option name="url" value="https://github.com/its-ankur/ADSA.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -41,6 +56,7 @@
     "Application.Question2.executor": "Run",
     "Application.excelColumn.executor": "Run",
     "Application.excelColumnReverse.executor": "Run",
+    "Application.pairs.executor": "Run",
     "Application.postFix.executor": "Run",
     "Application.stockSpan.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -49,7 +65,8 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/ADSA",
-    "onboarding.tips.debug.path": "E:/ADSA/src/Main.java"
+    "onboarding.tips.debug.path": "E:/ADSA/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -100,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709016435590</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Delete kth node from last">
+      <option name="closed" value="true" />
+      <created>1709187688610</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709187688611</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,6 +133,7 @@
     <MESSAGE value="postfix question" />
     <MESSAGE value="stock span problem" />
     <MESSAGE value="Linked list kth node from last" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked list kth node from last" />
+    <MESSAGE value="Delete kth node from last" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete kth node from last" />
   </component>
 </project>
