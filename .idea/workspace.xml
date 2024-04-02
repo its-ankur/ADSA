@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="Delete kth node from last">
-      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DequePackage/DequeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/infixToPostfix.java" afterDir="false" />
+    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="array pair question">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/allDFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Application.LinkedList.executor": "Run",
     "Application.Question1.executor": "Run",
     "Application.Question2.executor": "Run",
+    "Application.allDFS.executor": "Run",
     "Application.excelColumn.executor": "Run",
     "Application.excelColumnReverse.executor": "Run",
     "Application.pairs.executor": "Run",
@@ -125,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709187688611</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="array pair question">
+      <option name="closed" value="true" />
+      <created>1711606059844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711606059844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +143,7 @@
     <MESSAGE value="stock span problem" />
     <MESSAGE value="Linked list kth node from last" />
     <MESSAGE value="Delete kth node from last" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete kth node from last" />
+    <MESSAGE value="array pair question" />
+    <option name="LAST_COMMIT_MESSAGE" value="array pair question" />
   </component>
 </project>
