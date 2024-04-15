@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="array pair question">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree/allDFS.java" afterDir="false" />
+    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="DFS in binary tree">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/LargestRev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountNumberOfNodes/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountNumberOfNodes/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountNumberOfNodes/mirror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithm/FractionallKnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prioriyQueue/Question1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +35,12 @@
     &quot;assignee&quot;: &quot;its-ankur&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="661d68f2-9a91-4c4c-859d-3f0122a3f817" />
-        <option name="url" value="https://github.com/its-ankur/ADSA.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/its-ankur/ADSA.git&quot;,
+    &quot;accountId&quot;: &quot;661d68f2-9a91-4c4c-859d-3f0122a3f817&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -50,13 +52,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Count.executor": "Run",
     "Application.DeleteKthNode.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
+    "Application.LargestRev.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.Question1.executor": "Run",
     "Application.Question2.executor": "Run",
+    "Application.SmallestRev.executor": "Run",
     "Application.allDFS.executor": "Run",
     "Application.excelColumn.executor": "Run",
     "Application.excelColumnReverse.executor": "Run",
+    "Application.mirror.executor": "Run",
     "Application.pairs.executor": "Run",
     "Application.postFix.executor": "Run",
     "Application.stockSpan.executor": "Run",
@@ -70,13 +77,6 @@
     "settings.editor.selected.configurable": "preferences.updates"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-20.0.2-corretto-20.0.2.1-8336523bb0d9-e34d2934" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711606059844</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DFS in binary tree">
+      <option name="closed" value="true" />
+      <created>1712041773460</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712041773460</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +152,7 @@
     <MESSAGE value="Linked list kth node from last" />
     <MESSAGE value="Delete kth node from last" />
     <MESSAGE value="array pair question" />
-    <option name="LAST_COMMIT_MESSAGE" value="array pair question" />
+    <MESSAGE value="DFS in binary tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS in binary tree" />
   </component>
 </project>
