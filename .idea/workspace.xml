@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="DFS in binary tree">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/LargestRev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountNumberOfNodes/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountNumberOfNodes/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountNumberOfNodes/mirror.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreedyAlgorithm/FractionallKnapsackProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prioriyQueue/Question1.java" afterDir="false" />
+    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="Greedy algorithm">
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/AdvancedFib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Fibbonaci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GreedyAlgorithm/ActivitySelectionProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreedyAlgorithm/ActivitySelectionProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +48,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdvancedFib.executor": "Run",
     "Application.Count.executor": "Run",
     "Application.DeleteKthNode.executor": "Run",
+    "Application.Fibbonaci.executor": "Run",
     "Application.LargestNumber.executor": "Run",
     "Application.LargestRev.executor": "Run",
     "Application.LinkedList.executor": "Run",
@@ -142,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712041773460</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Greedy algorithm">
+      <option name="closed" value="true" />
+      <created>1713160666735</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713160666735</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,6 +159,7 @@
     <MESSAGE value="Delete kth node from last" />
     <MESSAGE value="array pair question" />
     <MESSAGE value="DFS in binary tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS in binary tree" />
+    <MESSAGE value="Greedy algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greedy algorithm" />
   </component>
 </project>
