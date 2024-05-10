@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="Dynamic programming">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LCSWithoutDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/LCSwithDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exam/Question1.java" afterDir="false" />
+    <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="Dynamic programming LCS problem in string">
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ChainMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/St2Practice/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/CoverADistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/CoverADistance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AdvancedFib.executor": "Run",
+    "Application.BinaryTree.executor": "Run",
+    "Application.ChainMatrix.executor": "Run",
     "Application.Count.executor": "Run",
     "Application.CoverADistance.executor": "Run",
     "Application.DeleteKthNode.executor": "Run",
@@ -76,7 +76,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/ADSA",
     "onboarding.tips.debug.path": "E:/ADSA/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.updates"
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -160,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713420200474</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Dynamic programming LCS problem in string">
+      <option name="closed" value="true" />
+      <created>1714372002272</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714372002272</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +181,7 @@
     <MESSAGE value="DFS in binary tree" />
     <MESSAGE value="Greedy algorithm" />
     <MESSAGE value="Dynamic programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dynamic programming" />
+    <MESSAGE value="Dynamic programming LCS problem in string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic programming LCS problem in string" />
   </component>
 </project>
