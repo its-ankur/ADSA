@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0b4b3d1-c405-4fe3-9c95-b923c6043876" name="Changes" comment="Dynamic programming LCS problem in string">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ChainMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/St2Practice/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileHandling/Filehandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,40 +45,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AdvancedFib.executor": "Run",
-    "Application.BinaryTree.executor": "Run",
-    "Application.ChainMatrix.executor": "Run",
-    "Application.Count.executor": "Run",
-    "Application.CoverADistance.executor": "Run",
-    "Application.DeleteKthNode.executor": "Run",
-    "Application.Fibbonaci.executor": "Run",
-    "Application.LCSWithoutDP.executor": "Run",
-    "Application.LCSwithDP.executor": "Run",
-    "Application.LargestNumber.executor": "Run",
-    "Application.LargestRev.executor": "Run",
-    "Application.LinkedList.executor": "Run",
-    "Application.Question1.executor": "Run",
-    "Application.Question2.executor": "Run",
-    "Application.SmallestRev.executor": "Run",
-    "Application.allDFS.executor": "Run",
-    "Application.excelColumn.executor": "Run",
-    "Application.excelColumnReverse.executor": "Run",
-    "Application.mirror.executor": "Run",
-    "Application.pairs.executor": "Run",
-    "Application.postFix.executor": "Run",
-    "Application.stockSpan.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/ADSA",
-    "onboarding.tips.debug.path": "E:/ADSA/src/Main.java",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdvancedFib.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChainMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoverADistance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeleteKthNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibbonaci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCSWithoutDP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCSwithDP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestRev.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestRev.executor&quot;: &quot;Run&quot;,
+    &quot;Application.allDFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.excelColumn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.excelColumnReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mirror.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.postFix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stockSpan.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/ADSA&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/ADSA/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
